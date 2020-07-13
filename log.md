@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: July 12, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Spent 1 hour on working on a tutorial/workshop where I am building an application using the Mars Rover API (my first time building something in Java). The link to the course is here: https://proffesso.com/Mars-Rover-Api-Workshop. Today's progress was getting some of the API mapping and classes figured out. The next portion of the course will be on the front end and getting the mars rover pictures to display.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I also spent an additional hour working on a group project that I am working on with a few girls from my coding bootcamp that we graduated a few months ago.  One of the girls fosters dogs and saw a need for an improvement to their website, so we are building a foster website using React, MongoDB, and Express/Node on the backend. I am taking on the responsibilities for the back-end of the website. Today, I was able to 
+1. Modified the server.js file and set up an API route to the mongoDB to "get" the data so we will be able to display the adoptable animals on the website
+2. Created seeds to be added to the API when the user uses the command line to run "npm run seed"
+3. I verified that the seed was being inputted correctly using Postman. As you can see in the screenshot, it took me a few tries in my history to understand what was going on. But, I was very happy to successfully get the response I was looking for!
 
-**Link to work:** [Calculator App](http://www.example.com)
+![Image of Postman GET request](https://ibb.co/kGqRG93)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** I am excited to get a better handle on Java by doing a tutorial before diving into a personal project using Java. I am also excited to be working on the backend of this collab project with Ashley and Haylee. I definitely have found that I gravitate towards the backend development. It has been a while since I've worked on a group project and it is refreshing since that is one of the things I missed most about my coding bootcamp that I graduated back in March, 2020.  As far as this project, I am more familiar with MySQL, so using MongoDB is a good challenge for me.

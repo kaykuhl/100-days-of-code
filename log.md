@@ -9,6 +9,6 @@ I also spent an additional hour working on a group project that I am working on 
 2. Created seeds to be added to the API when the user uses the command line to run "npm run seed"
 3. I verified that the seed was being inputted correctly using Postman. As you can see in the screenshot, it took me a few tries in my history to understand what was going on. But, I was very happy to successfully get the response I was looking for!
 
-![Image of Postman GET request](https://ibb.co/kGqRG93)
+![Image of Postman GET request](https://i.ibb.co/nwQHwn3/7-12-2020.png)
 
 **Thoughts:** I am excited to get a better handle on Java by doing a tutorial before diving into a personal project using Java. I am also excited to be working on the backend of this collab project with Ashley and Haylee. I definitely have found that I gravitate towards the backend development. It has been a while since I've worked on a group project and it is refreshing since that is one of the things I missed most about my coding bootcamp that I graduated back in March, 2020.  As far as this project, I am more familiar with MySQL, so using MongoDB is a good challenge for me.

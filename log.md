@@ -12,3 +12,13 @@ I also spent an additional hour working on a group project that I am working on 
 ![Image of Postman GET request](https://i.ibb.co/nwQHwn3/7-12-2020.png)
 
 **Thoughts:** I am excited to get a better handle on Java by doing a tutorial before diving into a personal project using Java. I am also excited to be working on the backend of this collab project with Ashley and Haylee. I definitely have found that I gravitate towards the backend development. It has been a while since I've worked on a group project and it is refreshing since that is one of the things I missed most about my coding bootcamp that I graduated back in March, 2020.  As far as this project, I am more familiar with MySQL, so using MongoDB is a good challenge for me.
+
+### Day 2: July 13, 2020
+
+**Today's Progress**: I spent around 3 hours working on my React Portfolio. I had a lot of CSS tweaking to do and changed around some content.
+
+I was also very happy I was able to get my github pages to be hosted on a domain I purchased, www.blissfullycoding.com.
+
+![Image of Updated Portfolio](https://i.ibb.co/Lzwfntz/port.png)
+
+**Thoughts:** I thought the actual hosting onto my domain went a lot smoother than I was anticipating. I was happy that github and the website I used, NameCheap, were able to link up. I had to go through the Advanced DNS settings and add a few records (ports?) as well as a CNAME record linking to my GitHub. I am happy with my porfolio, but I wish I had more of a design background to make it more slick.  While I do enjoy monkeying with the CSS, I still do thrive more in the back-end side of web development at the moment. But, I would love to be able to become more familiar with website design and how to play with space and colors.

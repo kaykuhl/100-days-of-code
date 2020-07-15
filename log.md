@@ -22,3 +22,9 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 ![Image of Updated Portfolio](https://i.ibb.co/Lzwfntz/port.png)
 
 **Thoughts:** I thought the actual hosting onto my domain went a lot smoother than I was anticipating. I was happy that github and the website I used, NameCheap, were able to link up. I had to go through the Advanced DNS settings and add a few records (ports?) as well as a CNAME record linking to my GitHub. I am happy with my porfolio, but I wish I had more of a design background to make it more slick.  While I do enjoy monkeying with the CSS, I still do thrive more in the back-end side of web development at the moment. But, I would love to be able to become more familiar with website design and how to play with space and colors.
+
+### Day 3: July 14, 2020
+
+**Today's Progress**: I continued on my progress on the Mars API Workshop. I was able to follow along with Trevor Page and was successfully able to get the pictures from the REAL mars rover show up on localhost!
+
+**Thoughts:** It was really exciting to get the response from the API and to actually be able to see the images. There are a LOT of new technologies in this course for me (Java, Thymeleaf, Springboot Framework), but I am following along well. I thought it was really cool how the Thymeleaf was able to loop through the API in the HTML code very easily to be able to display all the pictures from the API response. I am excited to continue to manipulate the response and front-end of the application to create something cool.  I believe that personal projects are the best way to learn, but it is also helpful for me to see how other people would tackle a problem and go about programming an application. Maybe I will do something space-y as a personal project after I am finished with this workshop.

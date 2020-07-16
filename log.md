@@ -29,7 +29,7 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 
 **Thoughts:** It was really exciting to get the response from the API and to actually be able to see the images. There are a LOT of new technologies in this course for me (Java, Thymeleaf, Springboot Framework), but I am following along well. I thought it was really cool how the Thymeleaf was able to loop through the API in the HTML code very easily to be able to display all the pictures from the API response. I am excited to continue to manipulate the response and front-end of the application to create something cool.  I believe that personal projects are the best way to learn, but it is also helpful for me to see how other people would tackle a problem and go about programming an application. Maybe I will do something space-y as a personal project after I am finished with this workshop.
 
-### Day 3: July 14, 2020
+### Day 3: July 15, 2020
 
 **Today's Progress**: I worked for a couple hours with my group that I'm building the pet fostering website with and some time individually to figure out why our React app was not deploying to Heroku. After 2 1/2 hours! I figured it out! I changed a few things but the final thing ended up being that it couldn't find modules like "Express", which were in our DevDependencies and therefor wasn't being used in production.
 

@@ -29,10 +29,28 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 
 **Thoughts:** It was really exciting to get the response from the API and to actually be able to see the images. There are a LOT of new technologies in this course for me (Java, Thymeleaf, Springboot Framework), but I am following along well. I thought it was really cool how the Thymeleaf was able to loop through the API in the HTML code very easily to be able to display all the pictures from the API response. I am excited to continue to manipulate the response and front-end of the application to create something cool.  I believe that personal projects are the best way to learn, but it is also helpful for me to see how other people would tackle a problem and go about programming an application. Maybe I will do something space-y as a personal project after I am finished with this workshop.
 
-### Day 3: July 15, 2020
+### Day 4: July 15, 2020
 
 **Today's Progress**: I worked for a couple hours with my group that I'm building the pet fostering website with and some time individually to figure out why our React app was not deploying to Heroku. After 2 1/2 hours! I figured it out! I changed a few things but the final thing ended up being that it couldn't find modules like "Express", which were in our DevDependencies and therefor wasn't being used in production.
 
 ![Image of Heroku](https://tse1.explicit.bing.net/th?id=OIP.fIjRtO5P8zc3pjs0E5hYkwHaDI&pid=Api)
 
 **Thoughts:** It is problems like these that makes an hour seem like 10 minutes have gone by. And it is promising to just get a different error than you had before. But it is also pretty fun to think... "hm, what about this?? Maybe that would work?" and then the excitement of actually solving the problem is just so worth the whole process. 
+
+### Day 5: July 16, 2020
+
+**Today's Progress**: I didn't have a ton of time to code tonight, but I did make sure I spent an hour continuing to go through the Mars API workshop. Today was focused on the front end and making the images look nice (more like a gallery) with the help of Bootstrap.
+
+![Bootstrapped Images](https://i.ibb.co/Vv2fLVD/7-16-2020.png)
+
+**Thoughts:** Today was a pretty easy coding day, I was able to get a re-fresher on bootstrap (I am pretty familiar but haven't worked with it in a while) and in-line HTML styling as well as in-line logic with thymeleaf. It was interesting to see the combination of these languages all in the HTML file. 
+
+### Day 6: July 17, 2020
+**Today's Progress**:
+![Image Tag]()
+**Thoughts:**
+
+### Day 7: July 18, 2020
+**Today's Progress**:
+![Image Tag]()
+**Thoughts:**

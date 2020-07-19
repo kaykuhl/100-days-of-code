@@ -45,12 +45,9 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 
 **Thoughts:** Today was a pretty easy coding day, I was able to get a re-fresher on bootstrap (I am pretty familiar but haven't worked with it in a while) and in-line HTML styling as well as in-line logic with thymeleaf. It was interesting to see the combination of these languages all in the HTML file. 
 
-### Day 6: July 17, 2020
-**Today's Progress**:
-![Image Tag]()
-**Thoughts:**
+### Day 6: July 18, 2020
+**Today's Progress**: I got further in my Mars API Workshop. I was able to make some buttons that allows you to select different Mars Rovers and have their images show up.  This was done with Javascript, so it was the most familiar part of this tutorial for me so far.
 
-### Day 7: July 18, 2020
-**Today's Progress**:
-![Image Tag]()
-**Thoughts:**
+![Buttons](https://i.ibb.co/Vjj1TJN/7-18-2020.png)
+
+**Thoughts:** So far, I am understanding everything conceptionally going on in the tutorial. Manipulating the API URL call from the front end is pretty cool as it brings everyting together, next will be finishing up the front end of the application.

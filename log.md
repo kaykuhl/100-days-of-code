@@ -51,3 +51,10 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 ![Buttons](https://i.ibb.co/Vjj1TJN/7-18-2020.png)
 
 **Thoughts:** So far, I am understanding everything conceptionally going on in the tutorial. Manipulating the API URL call from the front end is pretty cool as it brings everyting together, next will be finishing up the front end of the application.
+
+### Day 7: July 19, 2020
+**Today's Progress**: I got further in my Mars API Workshop. I added a filter for the Sol day and was able to update the API get request to be able to change it on the front end with this value.
+
+![Buttons](https://i.ibb.co/GWmKm5s/7-19-2020.png)
+
+**Thoughts:** I was hoping to get a little more done today, but I ran into a strange error. This happened when trying to get the value to equal the param value (So that the value in the sol box would equal "5" if you were looking at day 5 pictures.  Otherwise, I am seeing the light at the end of the tunnel with this tutorial and I am hoping to finish it up early next week so that I can start working on my next personal project (haven't decided what to do yet) as well as get more headway on my group pet fostering website project.

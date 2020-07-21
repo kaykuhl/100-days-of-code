@@ -58,3 +58,12 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 ![Buttons](https://i.ibb.co/GWmKm5s/7-19-2020.png)
 
 **Thoughts:** I was hoping to get a little more done today, but I ran into a strange error. This happened when trying to get the value to equal the param value (So that the value in the sol box would equal "5" if you were looking at day 5 pictures.  Otherwise, I am seeing the light at the end of the tunnel with this tutorial and I am hoping to finish it up early next week so that I can start working on my next personal project (haven't decided what to do yet) as well as get more headway on my group pet fostering website project.
+
+### Day 8: July 20, 2020
+**Today's Progress**: I worked on my group project for the animal fostering website and was able to display animal information on a card for all of the "adoptable animals" from my seeds for the MongoDB database.
+
+![Card Template](https://i.ibb.co/N2Dgk4N/7-20-2020.png)
+
+**Thoughts:**  The card still needs a lot of work, but the props info is there.  It is always challanging getting the front end and back end connected, but so far it seems like it will go smoothly in this project.
+
+I also figured out my bug from the mars app. By figuring it out I started it up today and it was working.... might have been a caching issue?

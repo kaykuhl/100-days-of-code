@@ -27,15 +27,15 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 
 **Today's Progress**: I continued on my progress on the Mars API Workshop. I was able to follow along with Trevor Page and was successfully able to get the pictures from the REAL mars rover show up on localhost!
 
-**Thoughts:** It was really exciting to get the response from the API and to actually be able to see the images. There are a LOT of new technologies in this course for me (Java, Thymeleaf, Springboot Framework), but I am following along well. I thought it was really cool how the Thymeleaf was able to loop through the API in the HTML code very easily to be able to display all the pictures from the API response. I am excited to continue to manipulate the response and front-end of the application to create something cool.  I believe that personal projects are the best way to learn, but it is also helpful for me to see how other people would tackle a problem and go about programming an application. Maybe I will do something space-y as a personal project after I am finished with this workshop.
+**Thoughts:** It was really exciting to get the response from the API and to be able to see the images. There are a LOT of new technologies in this course for me (Java, Thymeleaf, Springboot Framework), but I am following along well. I thought it was cool how the Thymeleaf was able to loop through the API in the HTML code very easily to be able to display all the pictures from the API response. I am excited to continue to manipulate the response and front-end of the application to create something cool.  I believe that personal projects are the best way to learn, but it is also helpful for me to see how other people would tackle a problem and go about programming an application. Maybe I will do something space-y as a personal project after I am finished with this workshop.
 
 ### Day 4: July 15, 2020
 
-**Today's Progress**: I worked for a couple hours with my group that I'm building the pet fostering website with and some time individually to figure out why our React app was not deploying to Heroku. After 2 1/2 hours! I figured it out! I changed a few things but the final thing ended up being that it couldn't find modules like "Express", which were in our DevDependencies and therefor wasn't being used in production.
+**Today's Progress**: I worked for a couple of hours with my group that I'm building the pet fostering website with and some time individually to figure out why our React app was not deploying to Heroku. After 2 1/2 hours! I figured it out! I changed a few things but the final thing ended up being that it couldn't find modules like "Express", which were in our DevDependencies and therefore wasn't being used in production.
 
 ![Image of Heroku](https://tse1.explicit.bing.net/th?id=OIP.fIjRtO5P8zc3pjs0E5hYkwHaDI&pid=Api)
 
-**Thoughts:** It is problems like these that makes an hour seem like 10 minutes have gone by. And it is promising to just get a different error than you had before. But it is also pretty fun to think... "hm, what about this?? Maybe that would work?" and then the excitement of actually solving the problem is just so worth the whole process. 
+**Thoughts:** It is problems like these that make an hour seem like 10 minutes have gone by. And it is promising to just get a different error than you had before. But it is also pretty fun to think... "hm, what about this?? Maybe that would work?" and then the excitement of actually solving the problem is just so worth the whole process. 
 
 ### Day 5: July 16, 2020
 
@@ -43,14 +43,14 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 
 ![Bootstrapped Images](https://i.ibb.co/Vv2fLVD/7-16-2020.png)
 
-**Thoughts:** Today was a pretty easy coding day, I was able to get a re-fresher on bootstrap (I am pretty familiar but haven't worked with it in a while) and in-line HTML styling as well as in-line logic with thymeleaf. It was interesting to see the combination of these languages all in the HTML file. 
+**Thoughts:** Today was a pretty easy coding day, I was able to get a refresher on bootstrap (I am pretty familiar but haven't worked with it in a while) and in-line HTML styling as well as in-line logic with thymeleaf. It was interesting to see the combination of these languages all in the HTML file. 
 
 ### Day 6: July 18, 2020
-**Today's Progress**: I got further in my Mars API Workshop. I was able to make some buttons that allows you to select different Mars Rovers and have their images show up.  This was done with Javascript, so it was the most familiar part of this tutorial for me so far.
+**Today's Progress**: I got further in my Mars API Workshop. I was able to make some buttons that allow you to select different Mars Rovers and have their images show up.  This was done with Javascript, so it was the most familiar part of this tutorial for me so far.
 
 ![Buttons](https://i.ibb.co/Vjj1TJN/7-18-2020.png)
 
-**Thoughts:** So far, I am understanding everything conceptionally going on in the tutorial. Manipulating the API URL call from the front end is pretty cool as it brings everyting together, next will be finishing up the front end of the application.
+**Thoughts:** So far, I am understanding everything conceptionally going on in the tutorial. Manipulating the API URL call from the front end is pretty cool as it brings everything together, next will be finishing up the front end of the application.
 
 ### Day 7: July 19, 2020
 **Today's Progress**: I got further in my Mars API Workshop. I added a filter for the Sol day and was able to update the API get request to be able to change it on the front end with this value.
@@ -64,7 +64,7 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 
 ![Card Template](https://i.ibb.co/N2Dgk4N/7-20-2020.png)
 
-**Thoughts:**  The card still needs a lot of work, but the props info is there.  It is always challanging getting the front end and back end connected, but so far it seems like it will go smoothly in this project.
+**Thoughts:**  The card still needs a lot of work, but the props info is there.  It is always challenging getting the front end and back end connected, but so far it seems like it will go smoothly in this project.
 
 I also figured out my bug from the mars app. By figuring it out I started it up today and it was working.... might have been a caching issue?
 
@@ -73,4 +73,4 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 
 ![Checkboxes for Mars Rover API App](https://i.ibb.co/6BNQrqY/7-21-20.png)
 
-**Thoughts:**  I am enjoying learning about thymeleaf, it seems like a great timesaver (no pun intended). I am also just solidfying some of my knowledge on APIs that will come in handy in future personal projects (really using the power of Postman to test out different limits of the API for example). For the Mars application, this was the final piece of the front end (other than spiffing it up a bit with bootstrap to make it look nicer). Other than that, I just wanted to make note that using Java isn't as complicated as I thought it would be. While I am only really familiar with javascript, I didn't realize how much of the concepts are the same in different programming languages. It just all comes down to remembering syntax and knowing what is the best way to approach a problem.
+**Thoughts:**  I am enjoying learning about thymeleaf, it seems like a great timesaver (no pun intended). I am also just solidifying some of my knowledge on APIs that will come in handy in future personal projects (really using the power of Postman to test out different limits of the API for an example). For the Mars application, this was the final piece of the front end (other than spiffing it up a bit with bootstrap to make it look nicer). Other than that, I just wanted to make note that using Java isn't as complicated as I thought it would be. While I am only really familiar with javascript, I didn't realize how much of the concepts are the same in different programming languages. It just all comes down to remembering syntax and knowing what is the best way to approach a problem.

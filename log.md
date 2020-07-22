@@ -67,3 +67,10 @@ I was also very happy I was able to get my github pages to be hosted on a domain
 **Thoughts:**  The card still needs a lot of work, but the props info is there.  It is always challanging getting the front end and back end connected, but so far it seems like it will go smoothly in this project.
 
 I also figured out my bug from the mars app. By figuring it out I started it up today and it was working.... might have been a caching issue?
+
+### Day 9: July 21, 2020
+**Today's Progress**: Today was fun with Thymeleaf and checkboxes! I added several checkboxes to the Mars API Application (I am following a tutorial for this application and learning a lot) and linked them up to the backend so that the boxes are checkable and we can now link the data (which cameras were selected) to the actual API call. I also learned better how to test an API through postman.
+
+![Checkboxes for Mars Rover API App](https://i.ibb.co/6BNQrqY/7-21-20.png)
+
+**Thoughts:**  I am enjoying learning about thymeleaf, it seems like a great timesaver (no pun intended). I am also just solidfying some of my knowledge on APIs that will come in handy in future personal projects (really using the power of Postman to test out different limits of the API for example). For the Mars application, this was the final piece of the front end (other than spiffing it up a bit with bootstrap to make it look nicer). Other than that, I just wanted to make note that using Java isn't as complicated as I thought it would be. While I am only really familiar with javascript, I didn't realize how much of the concepts are the same in different programming languages. It just all comes down to remembering syntax and knowing what is the best way to approach a problem.

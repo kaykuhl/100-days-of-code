@@ -79,3 +79,11 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 **Today's Progress**: While I did no actual writing of code today, I am counting it towards this endevor. I spent 45 minutes meeting with my group on our foster website and did another hour of pseudo coding and looking up some information as I am trying to figure out the best way to display the animals on the adoption page.
 
 **Thoughts:**  My thought is to have a list of small cards that give basic info on the pet, and then when you want to learn more about a specific animal, you can click and it will expand (to a new page or another component on the page) to show the rest of the data about the pet and a longer discription. I am researching if there is a way with my current skills with react to create a different HTML route for each animal in the database so their info can be displayed (and so people could "share" a particular link). Or if using the components in react to have something more dynamic would make more sense in this scenario.
+
+### Day 11: July 23, 2020
+
+**Today's Progress**: Got further in the Mars API Rover Workshop. I started the process of the if then statements for the API call based on the camera. It is a little complicated because not all rovers have the same camera types.  Unfortunately, I ran into a bug and my unfamiliarity with Java is failing me I think.
+
+![Debugging](https://i.ibb.co/02j5jLy/7-23-20.png)
+
+**Thoughts:** I am having a little trouble understanding this part of the backend and how everything is coming together. I will take another look tomorrow and see what is going on. It seems like sometimes coming back to a problem after sleeping or with a fresh set of eyes sometimes allows you to see what you didn't see beforehand.

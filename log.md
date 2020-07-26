@@ -87,3 +87,9 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 ![Debugging](https://i.ibb.co/02j5jLy/7-23-20.png)
 
 **Thoughts:** I am having a little trouble understanding this part of the backend and how everything is coming together. I will take another look tomorrow and see what is going on. It seems like sometimes coming back to a problem after sleeping or with a fresh set of eyes sometimes allows you to see what you didn't see beforehand.
+
+### Day 12: July 25, 2020
+
+**Today's Progress**: Still stuck in on the same problem in the Mars API Rover Workshop. 
+
+**Thoughts:** I thought I could figure this out and finish up this app today but it was a day of debugging.

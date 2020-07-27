@@ -93,3 +93,12 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 **Today's Progress**: Still stuck in on the same problem in the Mars API Rover Workshop. 
 
 **Thoughts:** I thought I could figure this out and finish up this app today but it was a day of debugging.
+
+
+### Day 13: July 26, 2020
+
+**Today's Progress**: Refactored some dry code (all of the 9 if else statements) into 6 lines of code, and then added some code to the front end in order to disable cameras when the rover does not have them.
+
+![Disabled checkboxes added to Mars API Web App](https://i.ibb.co/DCN2sgN/7-26-2020.png)
+
+**Thoughts:** I made a lot of headway on the Mars API App Workshop! I am pretty much completed with the application and just have a few things to finish up.  I have really enjoyed this tutorial. I've learned a lot about Java and Springboot and it was really helpful for me to watch Trevor debug and go through the code line by line.  I have come to the conclusion that doing your own projects are the best way to learn, HOWEVER, being able to watch an experienced coder and actively try to pick up their good habits and really think about why they do things the way they do can bring a ton of value too (in my experience so far).

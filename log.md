@@ -102,3 +102,11 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 ![Disabled checkboxes added to Mars API Web App](https://i.ibb.co/DCN2sgN/7-26-2020.png)
 
 **Thoughts:** I made a lot of headway on the Mars API App Workshop! I am pretty much completed with the application and just have a few things to finish up.  I have really enjoyed this tutorial. I've learned a lot about Java and Springboot and it was really helpful for me to watch Trevor debug and go through the code line by line.  I have concluded that doing your own personal projects are the best way to learn, HOWEVER, being able to watch an experienced coder and actively try to pick up their good habits and watch their thought process brings a ton of value to me.
+
+### Day 14: July 27, 2020
+
+**Today's Progress**: Final steps of the Mars Rover API App! I added checkbox to save preferences and added code to connect to mySQL database and create tables/columns based on the information for the API call on the UI based on user selection.
+
+![Creating mySQL tables](https://i.ibb.co/tHbK5X8/7-27-2020.png)
+
+**Thoughts:** I have no idea why, but I LOVE databases. For some reason, they just make sense to me. It was one of the ways I got introduced to software development (I would query access databases in one of my chemistry jobs).

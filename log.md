@@ -110,3 +110,11 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 ![Creating mySQL tables](https://i.ibb.co/tHbK5X8/7-27-2020.png)
 
 **Thoughts:** I have no idea why, but I LOVE databases. For some reason, they just make sense to me. It was one of the ways I got introduced to software development (I would query access databases in one of my chemistry jobs).
+
+### Day 15: July 29, 2020
+
+**Today's Progress**: Team zoom call (foster pet website) to update our progress and then tried to get the Mongodb to work on heroku (and get the seeders added). Everything works locally, but when I try to deploy, I am not able to figure out how to get MLab/Heroku/Mongoose/Mongodb/seeds file all jiving together.
+
+![Mongoose](https://i.ibb.co/HpgnKLV/7-29-2020.png)
+
+**Thoughts:** I definitely tend to shy away from MongoDB (MySQL just makes a lot more sense to me) Definitely a lot of stack overflow today, which is okay.  I know with enough time, I will be able to figure it out.

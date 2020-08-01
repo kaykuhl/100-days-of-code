@@ -118,3 +118,15 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 ![Mongoose](https://i.ibb.co/HpgnKLV/7-29-2020.png)
 
 **Thoughts:** I definitely tend to shy away from MongoDB (MySQL just makes a lot more sense to me) Definitely a lot of stack overflow today, which is okay.  I know with enough time, I will be able to figure it out.
+
+### Day 16: July 30, 2020
+**Today's Progress**: Made some bug fixes with the Mars API App.
+
+**Thoughts:** Bug fixes always take time but so rewarding when you figure it out.
+
+### Day 17: July 31, 2020
+**Today's Progress**: Might have my first freelance client??? My SO has a friend who is looking to make a Wordpress website for his business. I have played around with Wordpress a bit in the past, but I am excited to help our friend build a professional looking website.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png
+
+**Thoughts:** I am also interterested in having more freelance clients in the future, so this will be a great experience for me.

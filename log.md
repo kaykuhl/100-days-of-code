@@ -125,8 +125,8 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 **Thoughts:** Bug fixes always take time but so rewarding when you figure it out.
 
 ### Day 17: July 31, 2020
-**Today's Progress**: Might have my first freelance client??? My SO has a friend who is looking to make a Wordpress website for his business. I have played around with Wordpress a bit in the past, but I am excited to help our friend build a professional looking website.
+**Today's Progress**: Might have my first freelance client??? My SO has a friend who is looking to make a Wordpress website for his business. I have played around with Wordpress a bit in the past, but I excited to learn more and help our friend build a professional looking website.
 
-![Wordpress Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png)
+![Wordpress Logo](https://s.w.org/about/images/wordpress-logo-stacked-bg.png)
 
 **Thoughts:** I am also interterested in having more freelance clients in the future, so this will be a great experience for me.

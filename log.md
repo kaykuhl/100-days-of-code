@@ -134,6 +134,4 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 ### Day 18: August 2, 2020
 **Today's Progress**: I hopped around to a few things today. My main priority is getting our MongoDB database up and working for the foster website. For some reason, I am having a lot of trouble and been doing a lot of research as to why this is not working. I also researched more on how to build sites on Wordpress.
 
-![Wordpress Logo](https://s.w.org/about/images/wordpress-logo-stacked-bg.png)
-
 **Thoughts:** I think I should create a better schedule for which projects to work on since I feel distracted and want to work on multiple things at once! I think that is okay, but a little structure would help me organize my thoughts. I am also counting down the days I get to start my new job as a software developer! I am wondering if it will affect the energy for my side projects. I would really like to continue this challenge but will be making my new job my first priority.

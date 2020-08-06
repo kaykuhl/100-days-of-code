@@ -135,3 +135,13 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 **Today's Progress**: I hopped around to a few things today. My main priority is getting our MongoDB database up and working for the foster website. For some reason, I am having a lot of trouble and been doing a lot of research as to why this is not working. I also researched more on how to build sites on Wordpress.
 
 **Thoughts:** I think I should create a better schedule for which projects to work on since I feel distracted and want to work on multiple things at once! I think that is okay, but a little structure would help me organize my thoughts. I am also counting down the days I get to start my new job as a software developer! I am wondering if it will affect the energy for my side projects. I would really like to continue this challenge but will be making my new job my first priority.
+
+### Day 19: August 5, 2020
+**Today's Progress**: I am done with my Mars API Application Workshop and I have a cool Mars Rover Application to show for it. 
+
+![Mars API Application](https://i.ibb.co/GWtz8DW/8-5-2020.png)
+
+**Thoughts:** I highly recommend this course for anyone looking to make a fun application using the Mars Rover API. I enjoyed that this was a full stack application. Since I know Javascript, HTML, and CSS, I was familiar with a lot of the concepts, but I also learned a lot. The main things I got out of this tutorial were:
+* My first experience building a Java Spring Boot Application
+* Learned about the possibilities with Thymeleaf (Java template engine)
+* Getting familiar with the Mars Rover API Calls and using Postman to test these calls (I have done this before, but it was a good exercise since this API call has a lot of variables that can be manipulated (sol day, camera type, rover)

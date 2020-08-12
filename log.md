@@ -145,3 +145,9 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 * My first experience building a Java Spring Boot Application
 * Learned about the possibilities with Thymeleaf (Java template engine)
 * Getting familiar with the Mars Rover API Calls and using Postman to test these calls (I have done this before, but it was a good exercise since this API call has a lot of variables that can be manipulated (sol day, camera type, rover)
+
+### Day 20: August 12, 2020
+**Today's Progress**: Met with my fostering website group and we figured out what our goals for the next week are. I am starting the process of changing over our mongoDB into a mySQL db since mLab for Heroku will be shutting down in November.
+
+**Thoughts:** I took a few days off because today was my first full-day at my first job. I am feeling a little information overload but doing really well! We looked into other Mongo add-ons for heroku but didn't find a free version like mlab, so that is unfortunate. But, I love mySQL and know I can get it working with that. So, instead of being stuck forever, we decided to just go back to mySQL so that we can move forward with the app.
+

@@ -151,3 +151,9 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 
 **Thoughts:** I took a few days off because today was my first full-day at my first job. I am feeling a little information overload but doing really well! We looked into other Mongo add-ons for heroku but didn't find a free version like mlab, so that is unfortunate. But, I love mySQL and know I can get it working with that. So, instead of being stuck forever, we decided to just go back to mySQL so that we can move forward with the app.
 
+### Day 21: August 16th, 2020
+**Today's Progress**: Got a lot done today, spent a few hours getting our MongoDB database for the fostering pets website project changed over to mySQL (using Sequelize), I had to change over the configuration, seeds, and models in order to get everything working. And after lots of troubleshooting, I got it working! So now, locally, the database is running and my GET request is working correctly. Woo-hoo!
+
+![MySQL database for the fostering website](https://i.ibb.co/Jv5rs0G/8-16-2020.png)
+
+**Thoughts:** I love databases. I am not quite an expert, but I find them fun to play around with. Also, you may note that I have a few skipped days, but it is just a lot right now with starting my new job and a few other personal things in my life. HOWEVER, I don't want to give up because this challenge is very motivating for me to work on personal projects. So, I am allowing myself grace if I miss a few days. I am putting my new job as a #1 priority, and in order to do well, I need to be taking care of myself and getting enough sleep. And some days, I have more time than others. Like today, I spent 3-4 hours on this project.

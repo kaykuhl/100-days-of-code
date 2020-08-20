@@ -164,3 +164,11 @@ Today I set up my React App and GitHub Repo for my project and started thinking 
 
 **Thoughts:**  I am just builiding something that I would like myself, where it allows for a mini-meditation (or guided breathing session) and somehow give some daily inspiration or gratitude prompts. This is ideally something that you could do in the morning or before bed to clear your mind and get some motivation/inpiration if needed.
 I decided to build this in React since I am most familiar with this framework and would like to just keep exploring the different things you can do with it.
+
+### Day 23: August 19th, 2020
+**Today's Progress**: I played around with a timer for my meditation app. I made this timer runs for 100 seconds and found some resources to help me do it in 100% CSS code.
+
+![Timer Running - 1](https://i.ibb.co/dJxpPft/8-19-2020-1.png)
+![Timer Running - 2](https://i.ibb.co/Bw4PhV2/8-19-2020-2.png)
+
+**Thoughts:**  I am not 100% sure how I want this app to look like. Most of the other meditation apps do use that circle timer, but maybe I could come up with an alternative that is just as relaxing. I am thinking about how I could do a "wave" animation that would go up and down as a reminder to breath in and out slowly. Timer functions always were a little difficult for me in the bootcamp and I really haven't played around too much with animations, so I am thinking this will be a good challenge for me.  So, even though I may not keep this timer, I think it was pretty cool that it was done in pure CSS.

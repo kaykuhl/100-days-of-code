@@ -152,23 +152,24 @@ I also figured out my bug from the mars app. By figuring it out I started it up 
 **Thoughts:** I took a few days off because today was my first full-day at my first job. I am feeling a little information overload but doing really well! We looked into other Mongo add-ons for heroku but didn't find a free version like mlab, so that is unfortunate. But, I love mySQL and know I can get it working with that. So, instead of being stuck forever, we decided to just go back to mySQL so that we can move forward with the app.
 
 ### Day 21: August 16th, 2020
-**Today's Progress**: Got a lot done today, spent a few hours getting our MongoDB database for the fostering pets website project changed over to mySQL (using Sequelize), I had to change over the configuration, seeds, and models in order to get everything working. And after lots of troubleshooting, I got it working! So now, locally, the database is running and my GET request is working correctly. Woo-hoo!
+**Today's Progress**: Got a lot done today, spent a few hours getting our MongoDB database for the fostering pets website project changed over to mySQL (using Sequelize), I had to change over the configuration, seeds, and models to get everything working. And after lots of troubleshooting, I got it working! So now, locally, the database is running and my GET request is working correctly. Woo-hoo!
 
 ![MySQL database for the fostering website](https://i.ibb.co/Jv5rs0G/8-16-2020.png)
 
-**Thoughts:** I love databases. I am not quite an expert, but I find them fun to play around with. Also, you may note that I have a few skipped days, but it is just a lot right now with starting my new job and a few other personal things in my life. HOWEVER, I don't want to give up because this challenge is very motivating for me to work on personal projects. So, I am allowing myself grace if I miss a few days. I am putting my new job as a #1 priority, and in order to do well, I need to be taking care of myself and getting enough sleep. And some days, I have more time than others. Like today, I spent 3-4 hours on this project.
+**Thoughts:** I love databases. I am not quite an expert, but I find them fun to play around with. Also, you may note that I have a few skipped days, but it is just a lot right now with starting my new job and a few other personal things in my life. HOWEVER, I don't want to give up because this challenge is very motivating for me to work on personal projects. So, I am allowing myself grace if I miss a few days. I am putting my new job as a #1 priority, and to do well, I need to be taking care of myself and getting enough sleep. And some days, I have more time than others. Like today, I spent 3-4 hours on this project.
 
 ### Day 22: August 18th, 2020
-**Today's Progress**: Because I am done with my Mars API App, I started a new project! I am creating a react app to be used for medidation and motivation.
+**Today's Progress**: Because I am done with my Mars API App, I started a new project! I am creating a react app to be used for meditation and motivation.
 Today I set up my React App and GitHub Repo for my project and started thinking about how I am going to build this app.
 
-**Thoughts:**  I am just builiding something that I would like myself, where it allows for a mini-meditation (or guided breathing session) and somehow give some daily inspiration or gratitude prompts. This is ideally something that you could do in the morning or before bed to clear your mind and get some motivation/inpiration if needed.
+**Thoughts:**  I am just building something that I would like myself, where it allows for a mini-meditation (or guided breathing session) and somehow give some daily inspiration or gratitude prompts. This is ideally something that you could do in the morning or before bed to clear your mind and get some motivation/inspiration if needed.
 I decided to build this in React since I am most familiar with this framework and would like to just keep exploring the different things you can do with it.
 
 ### Day 23: August 19th, 2020
 **Today's Progress**: I played around with a timer for my meditation app. I made this timer runs for 100 seconds and found some resources to help me do it in 100% CSS code.
 
 ![Timer Running - 1](https://i.ibb.co/dJxpPft/8-19-2020-1.png)
+
 ![Timer Running - 2](https://i.ibb.co/Bw4PhV2/8-19-2020-2.png)
 
-**Thoughts:**  I am not 100% sure how I want this app to look like. Most of the other meditation apps do use that circle timer, but maybe I could come up with an alternative that is just as relaxing. I am thinking about how I could do a "wave" animation that would go up and down as a reminder to breath in and out slowly. Timer functions always were a little difficult for me in the bootcamp and I really haven't played around too much with animations, so I am thinking this will be a good challenge for me.  So, even though I may not keep this timer, I think it was pretty cool that it was done in pure CSS.
+**Thoughts:**  I am not 100% sure how I want this app to look like. Most of the other meditation apps do use that circle timer, but maybe I could come up with an alternative that is just as relaxing. I am thinking about how I could do a "wave" animation that would go up and down as a reminder to breathe in and out slowly. Timer functions always were a little difficult for me in the bootcamp and I really haven't played around too much with animations, so I am thinking this will be a good challenge for me.  So, even though I may not keep this timer, I think it was pretty cool that it was done in pure CSS.

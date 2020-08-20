@@ -173,3 +173,8 @@ I decided to build this in React since I am most familiar with this framework an
 ![Timer Running - 2](https://i.ibb.co/Bw4PhV2/8-19-2020-2.png)
 
 **Thoughts:**  I am not 100% sure how I want this app to look like yet. Most of the other meditation apps do use that circle timer, but maybe I could come up with an alternative that is just as relaxing. I am thinking about how I could do a "wave" animation that would go up and down as a reminder to breathe in and out slowly. Timer functions always were a little difficult for me in the bootcamp and I really haven't played around too much with animations, so I am thinking this will be a good challenge for me.  So, even though I may not keep this timer, I think it was pretty cool that it was done in pure CSS.
+
+### Day 24: August 20th, 2020
+**Today's Progress**: Updated my portfolio! https://blissfullycoding.com/
+
+**Thoughts:** Can't wait to continue adding projects and polishing up my portfolio.

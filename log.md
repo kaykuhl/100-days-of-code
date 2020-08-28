@@ -178,3 +178,12 @@ I decided to build this in React since I am most familiar with this framework an
 **Today's Progress**: Updated my portfolio! https://blissfullycoding.com/
 
 **Thoughts:** Can't wait to continue adding projects and polishing up my portfolio.
+
+### Day 25: August 27th, 2020
+**Today's Progress**: I got a lot done with the adoptions page on the fostering website. I was able to code what was needed in react (search buttons not working yet). I templated it based on the wire frame my group and I worked on during our meeting on Monday. Tried to use React-Bootstrap and my own CSS.
+
+![Wireframe](https://i.ibb.co/zX6mLvD/Adoption-cards.png)
+
+![Adpotions Page](https://i.ibb.co/6FfQC0S/8-27-2020.png)
+
+**Thoughts:** I definitely lean towards the back end, but sometimes HTML and CSS can be fun.

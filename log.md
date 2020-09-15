@@ -187,3 +187,11 @@ I decided to build this in React since I am most familiar with this framework an
 ![Adpotions Page](https://i.ibb.co/6FfQC0S/8-27-2020.png)
 
 **Thoughts:** I definitely lean towards the back end, but sometimes HTML and CSS can be fun.
+
+
+### Day 26: 9/14/2020
+**Today's Progress**: Added an animal page for the React adoption site I've been working on. Basically, the URL takes in the specific animal (id as a parameter) from the database and fills in all the pet information. 
+
+**Thoughts:** I thought this would be the best way to display the animals full information for UI purposes. I was also thinking people may want to share a specific animal that is available and they could do this by sharing the pet page. 
+
+**Yes, I know it has been a hot minute since I worked on my personal projects, but I have been busy with life and putting 100% into my new job. BUT, I am not discouraged. I will finish this out. Slow and steady. Because sometimes life just gets in the way but you find a way to keep moving forward.**

@@ -195,3 +195,10 @@ I decided to build this in React since I am most familiar with this framework an
 **Thoughts:** I thought this would be the best way to display the animals full information for UI purposes. I was also thinking people may want to share a specific animal that is available and they could do this by sharing the pet page. 
 
 **Yes, I know it has been a hot minute since I worked on my personal projects, but I have been busy with life and putting 100% into my new job. BUT, I am not discouraged. I will finish this out. Slow and steady. Because sometimes life just gets in the way but you find a way to keep moving forward.**
+
+### Day 27: 9/30/2020
+**Today's Progress**: Had another code meet with the girls. I added seeds into the animal database so we have actual data to work with. We also learned about a new tool called Visual Studio Live Share where we can code/debug live together.
+
+**Thoughts:** I think personal projects are great, and a great way to understand the material fully. But, I really do enjoy working on a team. I think the collaboration and combination of new ideas and perspectives is so powerful. And, it is just more fun IMO.
+
+**Thoughts:** 
